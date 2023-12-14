@@ -71,7 +71,7 @@ a, a:hover, a:focus, a:active, a.active {
 
 ::selection {
     text-shadow: none;
-    background: #fed136;
+    background: #E33D19;
 }
 
 @media (min-width: 768px) {
