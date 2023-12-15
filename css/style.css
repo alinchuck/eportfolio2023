@@ -18,8 +18,8 @@ Primary use:	One page
 
 [Color codes]
 
-Buttons, etc:	#726FB9 (blue)
-hover color:	#fed136 (yellow)
+Buttons, etc:	#F01A61 (pink)
+hover color:	##F51800 (red)
 -------------------------------------------------------------------*/
 
 /*--------------------
@@ -50,7 +50,7 @@ h6 {
 font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
-    color: #012030;
+    color: #5AF5F4;
 }
 
 p {
@@ -63,7 +63,7 @@ p {
 }
 
 a:hover, a:focus, a:active, a.active {
-    color: #fec503;
+    color: ##005AF5;
 }
 a, a:hover, a:focus, a:active, a.active {
     outline: 0;
@@ -71,7 +71,7 @@ a, a:hover, a:focus, a:active, a.active {
 
 ::selection {
     text-shadow: none;
-    background: #E33D19;
+    background: #F01A61;
 }
 
 @media (min-width: 768px) {
@@ -98,14 +98,14 @@ section {
     padding: 0px;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
-	color: #fec503
+	color: #F01A61
 }
 .navbar-default .navbar-collapse {
 	border-color: rgba(255,255,255,.02)
 }
 .navbar-default .navbar-toggle {
 	background-color: #fed136;
-	border-color: #fed136
+	border-color: #F01A61
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #fff
@@ -128,11 +128,11 @@ section {
 .navbar-default .navbar-nav>.active>a {
 	border-radius: 0;
 	color: #fff;
-	background-color: #fed136
+	background-color: #F57356
 }
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
 	color: #fff;
-	background-color: #fec503
+	background-color: #F57356
 }
 
 @media (min-width:768px) {
