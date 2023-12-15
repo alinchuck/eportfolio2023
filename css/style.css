@@ -19,7 +19,7 @@ Primary use:	One page
 [Color codes]
 
 Buttons, etc:	#F01A61 (pink)
-hover color:	##F51800 (red)
+hover color:	#F51800 (red)
 -------------------------------------------------------------------*/
 
 /*--------------------
@@ -63,7 +63,7 @@ p {
 }
 
 a:hover, a:focus, a:active, a.active {
-    color: ##005AF5;
+    color: #a62a53;
 }
 a, a:hover, a:focus, a:active, a.active {
     outline: 0;
@@ -71,7 +71,7 @@ a, a:hover, a:focus, a:active, a.active {
 
 ::selection {
     text-shadow: none;
-    background: #F01A61;
+    background: #f01a61;
 }
 
 @media (min-width: 768px) {
